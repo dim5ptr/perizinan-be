@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\perizinan-backend\\wwwroot\\uploads\\57b869ca-74b4-48d9-a7e8-463db0da282c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\57b869ca-74b4-48d9-a7e8-463db0da282c.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PresensiQRBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PresensiQRBackend.props",
+      "PackagePath": "build\\PresensiQRBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PresensiQRBackend.props",
+      "PackagePath": "buildMultiTargeting\\PresensiQRBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PresensiQRBackend.props",
+      "PackagePath": "buildTransitive\\PresensiQRBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

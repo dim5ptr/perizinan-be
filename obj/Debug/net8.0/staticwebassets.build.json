@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "AMfLH34BZBME7EJlNwtIgZWvUIX7huwZGiCnE9q+vKo=",
+  "Source": "PresensiQRBackend",
+  "BasePath": "_content/PresensiQRBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PresensiQRBackend\\wwwroot",
+      "Source": "PresensiQRBackend",
+      "ContentRoot": "D:\\perizinan-backend\\wwwroot\\",
+      "BasePath": "_content/PresensiQRBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\perizinan-backend\\wwwroot\\uploads\\57b869ca-74b4-48d9-a7e8-463db0da282c.jpg",
+      "SourceId": "PresensiQRBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\perizinan-backend\\wwwroot\\",
+      "BasePath": "_content/PresensiQRBackend",
+      "RelativePath": "uploads/57b869ca-74b4-48d9-a7e8-463db0da282c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\57b869ca-74b4-48d9-a7e8-463db0da282c.jpg"
+    }
+  ]
+}

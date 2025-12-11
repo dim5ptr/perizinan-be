@@ -1,0 +1,6 @@
+@PresensiQRBackend_HostAddress = http://localhost:5143
+
+GET {{PresensiQRBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
