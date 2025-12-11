@@ -77,5 +77,5 @@ using (var scope = app.Services.CreateScope())
 }
 
 // ✅ Listen on all network interfaces (IP public)
-app.Run("http://0.0.0.0:8082");
+app.Run("http://0.0.0.0:14341");
 
